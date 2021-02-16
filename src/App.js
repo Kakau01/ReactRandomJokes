@@ -1,10 +1,15 @@
-import './App.css';
+import ChuckNorris from './views/Pages/ChuckNorris';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello World</h1>
-    </div>
+    <>
+
+      <ChuckNorris />
+      
+    </>
+
+
+    
   );
 }
 
