@@ -16,12 +16,12 @@
 }
 .main-box{
     background-color: rgb(206, 206, 206);
-    height: 77vh;
+    height: 69vh;
     
 }
 
 .bx-quote{
-    height: 60vh;
+    height: 50%;
     background-color: rgba(37, 37, 51, 0.63);
     width: 70%;
     border-radius: 5px;
